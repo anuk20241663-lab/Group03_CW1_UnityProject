@@ -1,0 +1,64 @@
+# https://github.com/mikedh/trimesh
+
+newmtl Fantasy_Tree_Texture_2_Material
+Ka 0.40000000 0.40000000 0.40000000
+Kd 0.40000000 0.40000000 0.40000000
+Ks 0.40000000 0.40000000 0.40000000
+Ns 1.00000000
+map_Kd Fantasy_Tree_Texture_2_Material.png
+
+newmtl Fantasy_Tree_Texture_9
+Ka 0.40000000 0.40000000 0.40000000
+Kd 0.40000000 0.40000000 0.40000000
+Ks 0.40000000 0.40000000 0.40000000
+Ns 1.00000000
+map_Kd Fantasy_Tree_Texture_9.png
+
+newmtl Fantasy_Tree_Texture_6_Material
+Ka 0.40000000 0.40000000 0.40000000
+Kd 0.40000000 0.40000000 0.40000000
+Ks 0.40000000 0.40000000 0.40000000
+Ns 1.00000000
+map_Kd Fantasy_Tree_Texture_6_Material.png
+
+newmtl Fantasy_Tree_Texture_12_Material
+Ka 0.40000000 0.40000000 0.40000000
+Kd 0.40000000 0.40000000 0.40000000
+Ks 0.40000000 0.40000000 0.40000000
+Ns 1.00000000
+map_Kd Fantasy_Tree_Texture_12_Material.png
+
+newmtl Fantasy_Tree_Texture_11_Material
+Ka 0.40000000 0.40000000 0.40000000
+Kd 0.40000000 0.40000000 0.40000000
+Ks 0.40000000 0.40000000 0.40000000
+Ns 1.00000000
+map_Kd Fantasy_Tree_Texture_11_Material.png
+
+newmtl Fantasy_Tree_Texture_4_Material
+Ka 0.40000000 0.40000000 0.40000000
+Kd 0.40000000 0.40000000 0.40000000
+Ks 0.40000000 0.40000000 0.40000000
+Ns 1.00000000
+map_Kd Fantasy_Tree_Texture_4_Material.png
+
+newmtl Fantasy_Tree_Texture_5_Material
+Ka 0.40000000 0.40000000 0.40000000
+Kd 0.40000000 0.40000000 0.40000000
+Ks 0.40000000 0.40000000 0.40000000
+Ns 1.00000000
+map_Kd Fantasy_Tree_Texture_5_Material.png
+
+newmtl Fantasy_Tree_Texture_1_Material
+Ka 0.40000000 0.40000000 0.40000000
+Kd 0.40000000 0.40000000 0.40000000
+Ks 0.40000000 0.40000000 0.40000000
+Ns 1.00000000
+map_Kd Fantasy_Tree_Texture_1_Material.png
+
+newmtl Fantasy_Tree_Texture_3
+Ka 0.40000000 0.40000000 0.40000000
+Kd 0.40000000 0.40000000 0.40000000
+Ks 0.40000000 0.40000000 0.40000000
+Ns 1.00000000
+map_Kd Fantasy_Tree_Texture_3.png

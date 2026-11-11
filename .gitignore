@@ -1,0 +1,16 @@
+# Unity generated files (including nested Unity projects)
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]serSettings/
+**/[Bb]uild/
+**/[Bb]uilds/
+
+# IDE generated files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
